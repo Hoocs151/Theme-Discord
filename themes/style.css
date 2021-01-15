@@ -10,7 +10,7 @@
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
-  --black-hole: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
+  --hoocs: url(https://initiate.alphacoders.com/images/852/stretched-1920-1080-852703.png?8427);
   --stars: url(https://www.freeiconspng.com/uploads/twinkle-star-png-stars-9.png);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
@@ -50,7 +50,7 @@
 #app-mount,
 .container-16j22k,
 .perksModalContentWrapper-2HU6uL {
-  background: linear-gradient(var(--sheer), var(--sheer)),var(--black-hole) center/30% fixed;
+  background: linear-gradient(var(--sheer), var(--sheer)),var(--hoocs) center/30% fixed;
 }
 
 #app-mount .app-2rEoOp, 
@@ -343,7 +343,7 @@ a.selected-aXhQR6 .layout-2DM8Md, a.channel-2QD9_O:hover,
   width: 70px;
   display: flex;
   justify-content: center;
-  background: linear-gradient(var(--sheer), var(--sheer)),var(--black-hole) center/30% fixed;
+  background: linear-gradient(var(--sheer), var(--sheer)),var(--hoocs) center/30% fixed;
   z-index: 1;
 }
 
