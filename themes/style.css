@@ -1,39 +1,11 @@
 @import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
 @import "https://fontlibrary.org/face/horta"; /* 'HortaRegular' */
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
-/* @import "https://monstrousdev.github.io/themes/addons/filter.css"; */
 @import "https://www.themonster.xyz/styles/google-fonts.css";
 
-/*
-                                                                                                     
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-      ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-      ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
- /$$$$$$$  /$$                     /$$             /$$   /$$           /$$          
-| $$__  $$| $$                    | $$            | $$  | $$          | $$           
-| $$  \ $$| $$  /$$$$$$   /$$$$$$$| $$   /$$      | $$  | $$  /$$$$$$ | $$  /$$$$$$ 
-| $$$$$$$ | $$ |____  $$ /$$_____/| $$  /$$/      | $$$$$$$$ /$$__  $$| $$ /$$__  $$
-| $$__  $$| $$  /$$$$$$$| $$      | $$$$$$/       | $$__  $$| $$  \ $$| $$| $$$$$$$$
-| $$  \ $$| $$ /$$__  $$| $$      | $$_  $$       | $$  | $$| $$  | $$| $$| $$_____/
-| $$$$$$$/| $$|  $$$$$$$|  $$$$$$$| $$ \  $$      | $$  | $$|  $$$$$$/| $$|  $$$$$$$
-|_______/ |__/ \_______/ \_______/|__/  \__/      |__/  |__/ \______/ |__/ \_______/
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧       ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-      ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-      ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧                      
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     (c) Lil Monster#3557      ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧     ✧･ﾟ: *✧･ﾟ:*
-
-
-*/
-
-
-/* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
-	--theme-name: "Black Hole";
-  --theme-version: "1.5";
+	--theme-name: "Hoocs";
+  --theme-version: "1.0.0";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
@@ -73,77 +45,6 @@
   /* color for streaming status */
 
 }
-
-/* ==== TABLE OF CONTENTS ====
-*  ========== STATIC ==========
-*  I. App Window
-*  II. Title Bar
-*  III. Channel Area
-*     A. Channels Header
-*     B. Channel Groups and Individual Channels
-*     C. User Settings and Voice Connection
-*     D. Private Channels
-*     
-*  IV. Guilds Area
-*     A. Guilds Header
-*     B. Guild Styles
-*     C. Guild Folders
-*
-*  V. Pages
-*     A. Main Areas
-*       1. Embeds, Code Blocks, and Invites
-*       2. Login Page
-*       3. Download Discord
-*     B. Members List
-*     C. Top Bar & Typing Status
-*     D. Cards and Tiles
-*     E. Buttons, Switches, and Bars
-*     F. Change SVGs
-*
-*  VI. Top Layers
-*  VII. ScrollBars
-*
-*
-*
-*
-*  ========== MODALS AND POPOUTS ==========
-*  VIII. Menus
-*     A. Server Menu
-*     B. User Status
-*     C. Context Menu
-*     D. Dropdown Menus
-*  IX. Popouts
-*     A. User Popout
-*     B. Message Popout
-*     C. Search Popout & Results
-*     D. Attach Popout, Add Game popout
-*     E. Tooltips & Notices
-*     F. Autocomplete & Everyone Popout
-*     G. Gift Nitro and Gif Picker
-*     H. Emoji Picker
-*     I. Game Preview
-*     J. Add Roles Popout & Roles Overflow
-*     K. RTC Connection
-*     L. Stream Popout
-*     M. Follow Channel
-*     
-*  X. Modals
-*     A. User Modal
-*     B. Upload Modal 
-*     C. Join Guild Modal
-*     D. Messages Modal, Games Download Modal, Screenshare
-*     E. Incoming Call & Phone Verification
-*     F. Reactions Modal & Server Invite Modal
-*     G. Gift Modal
-*  XI. Keyframes
-*  XII. Custom CSS
-*  XIII. Plugin Optimization
-*     A. Ghost Ping
-*     B. Permissions Viewer
-*  XIV. Addon Optimization
-*     A. Custom Background Popouts
-*/
-
 
 /* I. App Window */
 #app-mount,
@@ -2593,7 +2494,7 @@ svg[name="Activity"] {
   background-color: var(--sheer);
 }
 
-  /* J. Add Roles Popout & Roles Overflow */
+  /*. Add Roles Popout & Roles Overflow */
 #app-mount .autocompleteArrow-Zxoy9H, 
 #app-mount .autocompleteHeaderBackground-30T70q,
 .container-3XJ8ns {
@@ -2626,7 +2527,7 @@ svg[name="Activity"] {
   -webkit-box-shadow: none;
 }
 
-  /* K. RTC Connection */
+  /* RTC Connection */
 #app-mount .container-2x5lvQ {
   background: linear-gradient(var(--blurple-sheer), transparent 80%), var(--quatro) var(--stars) top left !important;
   background-attachment: fixed;
@@ -2641,7 +2542,7 @@ svg[name="Activity"] {
   background: transparent;
 }
 
-  /* L. Stream Popout */
+  /* LStream Popout */
 #app-mount .previewContainer-12UlHl {
   background-color: transparent;
 }
@@ -2663,7 +2564,7 @@ svg[name="Activity"] {
 }
 
 
-  /* M. Follow Channel */
+  /* Follow Channel */
 #app-mount .header-1pGpFt,
 #app-mount .channelContainer-1x3D6I,
 #app-mount .footer-2gL1pp {
@@ -2676,8 +2577,7 @@ svg[name="Activity"] {
 
 
 
-/* X. Modals */
-  /* A. User Modal */
+/*  Modals */
 #app-mount .inner-1ilYF7 .root-SR8cQa,
 #app-mount .slide-2pHaq5,
 #app-mount .root-1gCeng {
@@ -2707,7 +2607,7 @@ svg[name="Activity"] {
   background: linear-gradient(var(--streaming-sheer), transparent 80%), var(--stars) top left fixed;
 }
 
-  /* B. Upload Modal */
+  /* Upload Modal */
 .uploadModal-2ifh8j,
 #app-mount .addGamePopout-2RY8Ju,
 #app-mount .inner-1JeGVc .container-3qKHyN,
@@ -2772,7 +2672,7 @@ background-attachment: fixed;
   margin-top: 0px;
 }
 
-  /* C. Join Guild Modal */
+  /* Join Guild Modal */
 .theme-light .root-1gCeng {
   --header-primary: var(--blurple);
   --header-secondary: #888;
@@ -2794,7 +2694,7 @@ background-attachment: fixed;
   color: var(--text-normal)
 }
 
-  /* D. Messages Modal, Games Download Modal, Screenshare */
+  /*  Messages Modal, Games Download Modal, Screenshare */
 #app-mount .message-2qRu38,
 #app-mount .tiles-2aXG_k {
   background: var(--sheer) var(--stars) top left !important;
@@ -2806,7 +2706,7 @@ background-attachment: fixed;
   background-color: var(--blurple-sheer);
 }
 
-  /* E. Incoming Call & Phone Verification */
+  /*  Incoming Call & Phone Verification */
 #app-mount .incomingCallInner-2VmFiR {
   background: linear-gradient(var(--blurple-sheer), transparent 80%), var(--quatro) var(--stars) top left no-repeat fixed;
   border-color: var(--blurple-sheer);
@@ -2848,7 +2748,7 @@ background-attachment: fixed;
   background: transparent;
 }
 
-  /* F. Reactions Modal & Server Invite Modal */
+  /* Reactions Modal & Server Invite Modal */
 #app-mount .sidebar-1-SQro,
 #app-mount  .reactors-Blmlhw {
   background: linear-gradient(var(--blurple-sheer), transparent 80%), var(--sheer) var(--stars) top left fixed;
@@ -2870,7 +2770,7 @@ background-attachment: fixed;
   background: var(--online-sheer);
 }
 
-  /* G. Gift Modal */
+  /* Gift Modal */
 #app-mount .modal-yWgWj- {
   background: linear-gradient(var(--blurple-sheer), transparent 80%), var(--quatro) var(--stars) top left fixed;
   border-radius: 5px;
@@ -2898,7 +2798,7 @@ background-attachment: fixed;
   background: transparent;
 }
 
-  /* I. BetterDiscord Error Modal */
+  /* BetterDiscord Error Modal */
 .bd-modal-wrapper .bd-modal-inner {
   background: linear-gradient(var(--blurple-sheer), transparent 80%), var(--quatro) var(--stars) top left fixed;
 }
@@ -2908,7 +2808,7 @@ background-attachment: fixed;
   background: transparent;
 }
 
-/* XI. Keyframes */
+/* Keyframes */
 
 @keyframes fadeIn {
   to {
@@ -3055,7 +2955,7 @@ background-attachment: fixed;
   }
 }
 
-/* XII. Custom CSS */
+/* Custom CSS */
 .contentRegion-3nDuYy #bd-customcss-attach-controls, 
 #bd-customcss-detach-container #bd-customcss-attach-controls {
   background: transparent;
@@ -3132,8 +3032,6 @@ background-attachment: fixed;
   color: var(--online);
 }
 
-/* XIII. Plugin Optimization */
-  /* A. Ghost Ping */
 .ghostping-button-unread .ghostping-button-icon {
   color: var(--dnd);
   transition: color 200ms ease-in-out;
@@ -3164,7 +3062,6 @@ background-attachment: fixed;
   width: calc(100% - 60px) !important;
 }
 
-  /* B. Permissions Viewer */
 #permissions-modal-wrapper #permissions-modal {
   background: linear-gradient(var(--blurple-sheer), transparent 80%), var(--quatro) var(--stars) top left !important;
   background-attachment: fixed;
@@ -3178,8 +3075,6 @@ background-attachment: fixed;
   background: transparent;
 }
 
-/* XIV. Addon Optimization */
-  /* A. Custom Background Popouts */
 
 .header-QKLPzZ .wrapper-3t9DeA.avatar-3EQepX::before {
   content:'';
