@@ -1,17 +1,17 @@
-@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
+@import url("https://hoocs151.github.io/Theme-Discord/themes/snippets/userPopouts.css");
 @import "https://fontlibrary.org/face/horta"; /* 'HortaRegular' */
-@import "https://monstrousdev.github.io/themes/addons/user-tags.css";
+@import "https://hoocs151.github.io/Theme-Discord/themes/addons/user-tags.css";
 @import "https://www.themonster.xyz/styles/google-fonts.css";
 
 :root {
-	--theme-name: "Hoocs";
+  --theme-name: "Hoocs";
   --theme-version: "1.0.0";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
-  --hoocs: url(https://initiate.alphacoders.com/images/852/stretched-1920-1080-852703.png);
-  --stars: url(https://www.freeiconspng.com/uploads/twinkle-star-png-stars-9.png);
+  --hoocs: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);
+  --stars: url(https://initiate.alphacoders.com/images/852/stretched-1920-1080-852703.png);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
   /* primary background color */
