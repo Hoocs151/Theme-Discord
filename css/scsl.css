@@ -10,7 +10,7 @@ html {
 
 .channels-Ie2l6A {
     -ms-flex-negative: 0;
-    background-color: var(--main-transparency);
+    background: transparent;
     flex-shrink: 0;
     width: 240px;
 }
