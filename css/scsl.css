@@ -11,6 +11,9 @@ html {
     background-color: rgba(0, 0, 0, 0);
 }
 
+.guildsWrapper
+    background: transparent;
+
 .channels-Ie2l6A {
     -ms-flex-negative: 0;
     background: transparent;
